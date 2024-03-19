@@ -1,4 +1,4 @@
-# Linux-Commands-and-Shell-Scripting-Final-Project
+# Linux Commands and Shell Scripting Project
 In this project, I created a scheduled backup script.
 
 
